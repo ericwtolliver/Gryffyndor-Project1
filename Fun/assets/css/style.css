@@ -1,0 +1,16 @@
+body,
+html {
+  width: 100%;
+  height: 100;
+}
+
+.container {
+  text-align: center;
+}
+
+.fun {
+  border: solid 2px blue;
+  margin: auto;
+  padding: 40px;
+  text-indent: 50 px;
+}
